@@ -1,0 +1,31 @@
+cff-version: 1.0.1
+title: >-
+  CSC510-Group31-Project1 - Polly_Bot
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Neeloy
+    family-names: Gomes
+    email: neeloy.gomes@gmail.com
+  - given-names: Vishal
+    family-names: Veerareddy
+    email: veerareddyvishal144@gmail.com
+  - given-names: Abhimanyu
+    family-names: Bellam
+    email: bellamabhimanyu@gmail.com
+  - given-names: Tyler
+    family-names: Craine
+    email: tylerkecraine@gmail.com
+  - given-names: Abhishek
+    family-names: Gupta
+    email: guptabhishek785@gmail.com
+identifiers:
+  - type: url
+    value: ''
+url: 'https://github.com/CSC-510-Team-31'
+abstract: >-
+  This repo serves as a source code for a Discord Bot that helps conduct polls 
+license: MIT
+version: 1.0.1
