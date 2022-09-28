@@ -48,7 +48,7 @@ app.post("/vote-mcq", async(req,res)=>{
         user: 'postgres',
         host: 'localhost',
         database: 'postgres',
-        password: '',
+        password: 'admin',
         port: 5432,
       })
       let playerAnswer;
@@ -79,7 +79,7 @@ app.get("/getoptions",async(req,res)=>{
         user: 'postgres',
         host: 'localhost',
         database: 'postgres',
-        password: '',
+        password: 'admin',
         port: 5432,
       })
       let playerAnswer;
